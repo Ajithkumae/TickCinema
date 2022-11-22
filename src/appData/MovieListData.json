@@ -1,0 +1,74 @@
+[
+  {
+    "movieName": "Drishyam 2",
+    "movieRating": "9",
+    "aboutMovie": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring a truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?",
+    "movieType": "Drama/Mystery/Thriller",
+    "moviePosterUrl":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS8xMCAgMzUuM0sgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00331997-ptqfdfmgtr-portrait.jpg",
+    "backGroundImage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/drishyam-2-et00331997-1667547668.jpg",
+    "movieCast": [
+      {
+        "name": "Ajay Devgn",
+        "imageUrl": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ajay-devgn-24051-12-09-2017-04-41-13.jpg",
+        "title": "as Vijay Salgaonkar"
+      },
+      {
+        "name": "Tabu",
+        "imageUrl": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/tabu-2324-30-09-2017-11-54-15.jpg",
+        "title": "Actor"
+      },
+      {
+        "name": "Akshaye Khanna",
+        "imageUrl": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/akshaye-khanna-95-24-03-2017-14-07-23.jpg",
+        "title": "Actor"
+      },
+      {
+        "name": "Shriya Saran",
+        "imageUrl": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shriya-saran-2156-18-09-2017-04-10-24.jpg",
+        "title": "Acgtor"
+      },
+      {
+        "name": "Rajat Kapoor",
+        "imageUrl": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/rajat-kapoor-1784-24-03-2017-12-33-07.jpg",
+        "title": "Actor"
+      }
+    ],
+    "movieCrew": [
+      
+      {
+        "name": "Abhishek Pathak",
+        "imageUrl": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/abhishek-pathak-iein022696-24-03-2017-14-10-36.jpg",
+        "title": "Director, Producer"
+      },
+      {
+        "name": "Bushan Kumar",
+        "imageUrl": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/bhushan-kumar-1075903-11-11-2016-05-08-19.jpg",
+        "title": "Producer"
+      },
+      {
+        "name": "Kumar Mangat",
+        "imageUrl": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/kumar-mangat-iein010599-24-03-2017-15-00-10.jpg",
+        "title": "Producer"
+      },
+      {
+        "name": "Krishan Kumar",
+        "imageUrl": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/krishan-kumar-iein019780-24-03-2017-17-35-37.jpg",
+        "title": "Producer"
+      }
+    ],
+    "movieReview": [
+      {
+        "name": "Vinay",
+        "imageUrl": "",
+        "reviewRating": "8",
+        "comments": "Riveting, Thrilling & Entertaining... It's absolutely faithful to its original version and gave a jaw-dropping experience. Story is incredibly"
+      },
+      {
+        "name": "Anav",
+        "imageUrl": "",
+        "reviewRating": "3",
+        "comments": "Watched the movie, it was nice. It kept me on the edge of my seat quite a bit. Although, it was the most unrealistic film in terms of law."
+      }
+    ]
+  }
+]
